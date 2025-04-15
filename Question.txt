@@ -1,0 +1,29 @@
+What is the capital of France?
+a) Berlin
+b) Madrid
+c) Paris
+d) Rome
+
+What is the largest planet in our solar system?
+a) Earth
+b) Mars
+c) Jupiter
+d) Saturn
+
+What is the capital of Japan?
+a) Seoul
+b) Beijing
+c) Tokyo
+d) Bangkok
+
+Which programming language is known as the "language of the web"?
+a) Java
+b) Python
+c) JavaScript
+d) C++
+
+What is the largest continent by area?
+a) Africa
+b) Asia
+c) Europe
+d) Antarctica

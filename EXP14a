@@ -1,0 +1,25 @@
+#NAME: Ansari Bushra  231P046/03
+"""Write a program to demonstrate Data Series and Data Frames using Pandas."""
+import pandas as pd
+# Demonstrating Data Series
+print("--- Data Series Example ---")
+data_series = pd.Series([10, 20, 30, 40, 50], index=['a', 'b', 'c', 'd', 'e'])
+print(data_series)
+print("Ansari Bushra 231P046/03")
+# Accessing elements of Data Series
+print("\nAccessing element at index 'c':", data_series['c'])
+# Demonstrating Data Frame
+print("\n--- Data Frame Example ---")
+data = {
+    'Name': ['Bushra', 'Ansari', 'BUSHRA', 'ANSARI'],
+    'Age': [25, 30, 35, 40],
+    'City': ['Las Vegas', 'Los Angeles', 'Chicago', 'Vietnam']
+}
+data_frame = pd.DataFrame(data)
+print(data_frame)
+# Accessing columns
+print("\nAccessing 'Name' column:")
+print(data_frame['Name'])
+# Accessing a specific row using loc
+print("\nAccessing row with index 2:")
+print(data_frame.loc[2])
